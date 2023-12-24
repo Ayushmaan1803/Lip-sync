@@ -1,6 +1,5 @@
 #Lip-sync
 
-#Usage Steps:
 #Step 1: Install Dependencies and Pretrained Model
 Ensure all necessary dependencies are installed and download the pretrained model.
 
