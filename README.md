@@ -1,7 +1,7 @@
 #Lip-sync
 
 #Step 1: Install Dependencies and Pretrained Model
-Ensure all necessary dependencies are installed and download the pretrained model.
+'Ensure all necessary dependencies are installed and download the pretrained model.'
 
 #Step 2: Input Video
 Provide a YouTube video link or upload a custom video file (maximum duration - 60 seconds).
